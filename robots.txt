@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jimbosmanu.com.pl/sitemap.xml
